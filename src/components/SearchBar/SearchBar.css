@@ -11,10 +11,13 @@
   font-size: 14px;
 }
 .search-form input {
+  width: 200px;
   text-align: center;
   color: #262626;
 }
 .image-wrapper {
+  margin-left: 75px;
+
   height: 50px;
 }
 
